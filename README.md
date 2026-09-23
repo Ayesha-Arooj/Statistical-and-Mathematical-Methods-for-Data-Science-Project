@@ -194,9 +194,3 @@ This notebook was developed as a project for the course:
 It demonstrates the practical application of statistical techniques to a data science problem involving AI-assisted learning and programming education.
 
 ---
-
-## Note
-
-The results should be interpreted in the context of the survey design, variable coding, sample characteristics, and assumptions associated with each statistical method.
-
-If synthetic data are used in the notebook, they should be considered suitable for demonstration and academic analysis rather than as evidence representing a real-world population.
